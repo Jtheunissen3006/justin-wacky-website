@@ -7,7 +7,7 @@ I've forked a from Zuyd received repo and made the following adjustments:
 * Changed the profile picture in the HTML
 * Changed and added some text
 
-I've also put it [online](https://Jtheunissen3006.github.io/Justin-wacky-website/).
+I've also put it [online](https://Jtheunissen3006.github.io/justin-wacky-website/).
 
 This was my added profile picture:
 

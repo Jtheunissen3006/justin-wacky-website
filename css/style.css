@@ -135,7 +135,7 @@ table {
 }
 
 img {
-    max-width: 100%;
+    max-width:  160%;
     height: auto;
     margin-bottom: -7px;
 }
@@ -340,7 +340,7 @@ body #mainWrapper main::after {
 --------------------------------------------------------------*/
 
 body {
-    background: blue;
+    background: rgb(85, 85, 85);
 }
 
 body main {
@@ -449,7 +449,7 @@ body main .cta {
         page-break-inside: avoid;
     }
     img {
-        max-width: 100% !important;
+        max-width: 150% !important;
     }
     @page {
         margin: 0.5cm;
